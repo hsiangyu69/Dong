@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/pre-dexed/debug/classes-3b73ecfc3c4dda5234a411b224e1c6deb165b093.jar" />
+    </item>
+    <item
+        jar="/Applications/eclipse/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e118b4966c609df658a8a4c13ead3a56da77f3fc.jar" />
+    </item>
+    <item
+        jar="/Users/chenpusheng/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.0.1/9ebf6cd580d67601fbf88fd007aab4703b19e4c2/core-3.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
+        <dex dex="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/pre-dexed/debug/core-3.0.1-014e36001b4b891feeb404c55c63bf8b93473c8d.jar" />
+    </item>
+    <item
+        jar="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/exploded-aar/com.embarkmobile/zxing-android-integration/2.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="32c0545546faa0e65a67bba8abc072b1aef5b136">
+        <dex dex="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/pre-dexed/debug/classes-750ded9aa07334cd085f93acfe01b768dd5e63bb.jar" />
+    </item>
+    <item
+        jar="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/exploded-aar/com.embarkmobile/zxing-android-legacy/2.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3935235b42452c8e472b00a13770614bd9d5ea93">
+        <dex dex="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/pre-dexed/debug/classes-a817185fde90df857a72e966dc5c9fd66838238c.jar" />
+    </item>
+    <item
+        jar="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/pre-dexed/debug/classes-7c9985f4748608a969802159e3eab0f5d0c491ed.jar" />
+    </item>
+    <item
+        jar="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/exploded-aar/com.embarkmobile/zxing-android-minimal/2.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb9bbd4a4737c5d1720f03efe7de98df3a924ef1">
+        <dex dex="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/pre-dexed/debug/classes-f4aa438767750478200e281e207aac267ad13c5e.jar" />
+    </item>
+    <item
+        jar="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-a34b72c40ed7131cf04ed30ff31c2d106f471cc7.jar" />
+    </item>
+    <item
+        jar="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/chenpusheng/AndroidStudioProjects/Dong/app/build/intermediates/pre-dexed/debug/classes-19b25b437bc105f8aea55666b5e522e63af35d15.jar" />
+    </item>
+
+</items>
